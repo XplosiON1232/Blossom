@@ -7,7 +7,7 @@
   
   <a href="https://github.com/XplosiON1232/Blossom/issues">Suggest Feature</a>
   
-  <h3>-</h3>
+  <h2>-</h2>
   
 </div>
 
