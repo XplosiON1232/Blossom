@@ -5,9 +5,9 @@
   
   <h2>Blossom - Discord Manager</h2>
   <h2>
-    <p size="14px">
+    <font size="14px">
       <a href="https://github.com/XplosiON1232/Blossom/issues">Suggest Feature</a>
-    </p>
+    </font>
   </h2>
   
 </div>
