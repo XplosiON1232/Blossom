@@ -4,25 +4,12 @@
   </a>
   
   <h2>Blossom - Discord Manager</h2>
-  <h2>
-    <p font-size="14px">
-      <a href="https://github.com/XplosiON1232/Blossom/issues">Suggest Feature</a>
-    </p>
-  </h2>
   
-  ---
-  
-  --------
-  
-  ****
-  
-  ******
-  
-  ___
-  
-  ________
+  <a href="https://github.com/XplosiON1232/Blossom/issues">Suggest Feature</a>
   
 </div>
+
+<hr>
 
 Cherry Blossom is a management tool for Discord services. It offers a variety of features and tools for management of nitro subscriptions, gifts, server boosts, and minions (accounts). The marketplace also offers discounted prices for nitro and server boosts. With Blossom, it's easy to enhance your Discord experience without overpaying.
 
@@ -30,6 +17,8 @@ Cherry Blossom is a management tool for Discord services. It offers a variety of
 > This repo will be updated once Blossom is in Beta, but join the discord
 > for the latest news and to be the first to use Blossom.
 > [discord.gg/cherrypalace](https://discord.com/invite/VMy7xZWz)
+
+<hr>
 
 The Blossom platform is created by `XplosiON#0001`
 
