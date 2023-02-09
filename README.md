@@ -5,7 +5,7 @@
   
   <h2>Blossom - Discord Manager</h2>
   
-  <a href="https://github.com/XplosiON1232/Blossom/issues">Submit Feature</a>
+  <a href="https://github.com/XplosiON1232/Blossom/issues">Suggest Feature</a>
   
 </div>
 
