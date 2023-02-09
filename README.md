@@ -3,9 +3,7 @@
 </p>
 
 <p align="center">
-  
-  [Suggestions](https://github.com/XplosiON1232/Blossom/issues)
-  
+  <a href="https://github.com/XplosiON1232/Blossom/issues"></a>
  </p>
 
 # <p align="center">Cherry Blossom</p>
