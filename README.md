@@ -3,7 +3,7 @@
     <img src="https://user-images.githubusercontent.com/42715759/217774938-5deefea6-24e6-4f6c-aaf9-f02ecb4643d0.png">
   </a>
   
-  <h2>Discord Manager - Blossom</h2>
+  <h2>Blososm - Discord Manager</h2>
   
   <a href="https://github.com/XplosiON1232/Blossom/issues">Submit Feature</a>
   
