@@ -11,4 +11,6 @@
 
 Cherry Blossom is a management tool for Discord services. It offers a variety of features and tools for management of nitro subscriptions, gifts, server boosts, and minions (accounts). The marketplace also offers discounted prices for nitro and server boosts. With Blossom, it's easy to enhance your Discord experience without overpaying.
 
-The documentation is available at `[link](https://apple.com)`
+The Blossom platform is created by `XplosiON#0001`
+
+The documentation is available [Here](https://*)
