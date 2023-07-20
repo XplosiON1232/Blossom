@@ -6,6 +6,7 @@
   <h2>Blossom - Discord Manager</h2>
   
   <a href="https://github.com/XplosiON1232/Blossom/issues">Suggest Feature</a>
+  -
   <a href="https://docs.blossom.cx">Documentation</a>
   
 </div>
