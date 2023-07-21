@@ -20,6 +20,6 @@ Cherry Blossom is a management tool for Discord services. It offers a variety of
 
 <hr>
 
-The Blossom platform is created by `XplosiON#0001`
+The Blossom platform is created by `elins_`
 
 The documentation is available [Here](https://docs.blossom.cx)
